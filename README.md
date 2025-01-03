@@ -1,2 +1,2 @@
 # C-Lang-Exercises
-C Language learning projects and puzzles
+A repository for my C Language learning projects and puzzles.
